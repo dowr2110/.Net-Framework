@@ -1,0 +1,7 @@
+D:\фит\ООП\2 семестр лабы\1 lab\lab 1\lab 1\obj\Debug\lab 1.csprojAssemblyReference.cache
+D:\фит\ООП\2 семестр лабы\1 lab\lab 1\lab 1\obj\Debug\lab 1.csproj.CoreCompileInputs.cache
+D:\фит\ООП\2 семестр лабы\1 lab\lab 1\lab 1\bin\Debug\lab 1.exe.config
+D:\фит\ООП\2 семестр лабы\1 lab\lab 1\lab 1\bin\Debug\lab 1.exe
+D:\фит\ООП\2 семестр лабы\1 lab\lab 1\lab 1\bin\Debug\lab 1.pdb
+D:\фит\ООП\2 семестр лабы\1 lab\lab 1\lab 1\obj\Debug\lab 1.exe
+D:\фит\ООП\2 семестр лабы\1 lab\lab 1\lab 1\obj\Debug\lab 1.pdb
