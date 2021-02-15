@@ -1,0 +1,62 @@
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\lab 7_8 new.csprojAssemblyReference.cache
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\MainWindow.g.cs
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\App.g.cs
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\MainWindow.baml
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\lab_7_8_new.Properties.Resources.resources
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\lab 7_8 new.csproj.GenerateResource.cache
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\lab 7_8 new.csproj.CoreCompileInputs.cache
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\Page1.g.cs
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\Page1.baml
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\bin\Debug\Json.dll
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\bin\Debug\Newtonsoft.Json.dll
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\bin\Debug\Json.pdb
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\bin\Debug\Newtonsoft.Json.xml
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\lab 7_8 new.csproj.CopyComplete
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\Page2.g.cs
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\Page2.baml
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\Page3.g.cs
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\Page3.baml
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\bin\Debug\Заметки_довр.exe.config
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\bin\Debug\Заметки_довр.exe
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\bin\Debug\Заметки_довр.pdb
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\Заметки_довр_MarkupCompile.cache
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\Заметки_довр_MarkupCompile.lref
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\Заметки_довр.g.resources
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\Заметки_довр.exe
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\Заметки_довр.pdb
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\App.baml
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\Resources\lang.ru-RU.baml
+D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\Resources\lang.baml
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\bin\Debug\Заметки_довр.exe.config
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\bin\Debug\Заметки_довр.exe
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\bin\Debug\Заметки_довр.pdb
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\bin\Debug\Json.dll
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\bin\Debug\Newtonsoft.Json.dll
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\bin\Debug\Json.pdb
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\bin\Debug\Newtonsoft.Json.xml
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\lab 7_8 new.csprojAssemblyReference.cache
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\MainWindow.g.cs
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\Page1.g.cs
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\Page2.g.cs
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\Page3.g.cs
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\App.g.cs
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\Заметки_довр_MarkupCompile.cache
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\Заметки_довр_MarkupCompile.lref
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\App.baml
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\MainWindow.baml
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\Page1.baml
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\Page2.baml
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\Page3.baml
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\Resources\lang.ru-RU.baml
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\Resources\lang.baml
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\Заметки_довр.g.resources
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\lab_7_8_new.Properties.Resources.resources
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\lab 7_8 new.csproj.GenerateResource.cache
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\lab 7_8 new.csproj.CoreCompileInputs.cache
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\lab 7_8 new.csproj.CopyComplete
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\Заметки_довр.exe
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\Заметки_довр.pdb
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\dark.baml
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\light.baml
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\red.baml
+D:\фит\ООП\2 семестр лабы\9 lab\lab 7_8\lab 7_8 new\lab 7_8 new\obj\Debug\Resources\lang.tk-TM.baml

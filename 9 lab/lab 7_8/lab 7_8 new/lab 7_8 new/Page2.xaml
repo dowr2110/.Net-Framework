@@ -1,0 +1,41 @@
+﻿<Page x:Class="lab_7_8_new.Page2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:lab_7_8_new"
+      mc:Ignorable="d" 
+      d:DesignHeight="405" d:DesignWidth="615"
+      Title="Page2">
+
+    <Grid Style="{DynamicResource backgroundcolor}" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="phonesGrid" Style="{DynamicResource datagridstyle}" CanUserAddRows="False"   AutoGenerateColumns="False"  Margin="15,56,24,31" FontFamily="Times New Roman"  >
+
+            <DataGrid.Columns >
+                <DataGridTextColumn  Header="{DynamicResource m_krat_nazv}"  FontWeight="Bold" Binding="{Binding Kratkoe_nazvaniye}" Width="100" FontFamily="Times New Roman"  />
+                <DataGridTextColumn Header="{DynamicResource m_poln_obyas}" Binding="{Binding Polnoe_opisanie}" Width="100" />
+                <DataGridTextColumn Header="{DynamicResource m_katigoria}" Binding="{Binding Katigoria}" Width="65" />
+                <DataGridTextColumn Header="{DynamicResource m_preiritet}" Binding="{Binding Preoritet}" Width="65" />
+                <DataGridTextColumn Header="{DynamicResource m_vremya_sozd}" Binding="{Binding Datetime}" FontStyle="Italic" Width="115"  />
+                <DataGridTextColumn Header="{DynamicResource m_status}" Binding="{Binding Status2}"  Width="80"  />
+                <DataGridCheckBoxColumn  Header="" Binding="{Binding Status}"  Width="50" />
+            </DataGrid.Columns>
+
+
+            <DataGrid.RowDetailsTemplate>
+                <DataTemplate>
+
+                    <TextBlock Text="{Binding Polnoe_opisanie}" Height="50" FontSize="16"/>
+
+                </DataTemplate>
+            </DataGrid.RowDetailsTemplate>
+        </DataGrid>
+        
+        <GroupBox Header="{DynamicResource m_izmeneniyezadac}" HorizontalAlignment="Left" Width="602" FontFamily="Times New Roman" BorderBrush="#FFECF5F5" FontSize="20" Height="350" VerticalAlignment="Top" Margin="4,30,0,0" Foreground="#FFF7F1F1"/>
+        <Button  Template="{DynamicResource btTemplate}" HorizontalAlignment="Left" Margin="470,17,0,0" VerticalAlignment="Top" Width="121" Click="Button_Click_1"/>
+        <TextBox x:Name="Textbox" Template="{DynamicResource tbxtemplate}" IsReadOnly="True" FontFamily="Times New Roman" HorizontalAlignment="Left" Height="18" Margin="285,17,0,0" TextWrapping="Wrap" TextAlignment="Center" Text="-----------------------" VerticalAlignment="Top" Width="185" TextChanged="TextBox_TextChanged" />
+    </Grid>
+</Page>

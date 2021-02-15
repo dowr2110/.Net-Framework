@@ -1,0 +1,103 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:lab_7_8_new">
+
+    <Style x:Key="ButtonStyle" TargetType="Button">
+        <Setter Property="Background" Value="#FFDDDDDD"/>
+        <Setter Property="FontFamily" Value="Times New Roman"/>
+    </Style>
+    <Style x:Key="backgroundcolor" TargetType="Grid">
+        <Setter Property="Background" Value="#FF38372E"/>
+    </Style>
+    <Style x:Key="datagridstyle" TargetType="DataGrid">
+        <Setter Property="Background" Value="#FFDDDDDD"/>
+    </Style>
+    <Style x:Key="menustyle" TargetType="Menu">
+        <Setter Property="Background" Value="#FFDDDDDD"/>
+    </Style>
+    <Style x:Key="menuitemstyle" TargetType="MenuItem">
+        <Setter Property="Background" Value="#FFDDDDDD"/>
+        <Setter Property="FontFamily" Value="Times New Roman"/>
+    </Style>
+
+    
+    
+    
+    <!--triggers-->
+    <Style x:Key="multitriggerstyle" TargetType="Button">
+        <Setter Property="Background" Value="#FFDDDDDD"/>
+        <Setter Property="FontFamily" Value="Times New Roman"/>
+        <Style.Triggers>
+            <MultiTrigger>
+                <MultiTrigger.Conditions>
+                    <Condition Property="IsMouseOver" Value="True" />
+                    <Condition Property="IsPressed" Value="True" />
+                </MultiTrigger.Conditions>
+                <MultiTrigger.Setters>
+                    <Setter Property="FontSize" Value="15" />
+                    <Setter Property="FontWeight" Value="SemiBold" />
+                </MultiTrigger.Setters>
+            </MultiTrigger>
+        </Style.Triggers>
+    </Style>
+
+
+    <Style x:Key="eventtriggerstyle" TargetType="Button">
+        <Setter Property="Background" Value="#FFDDDDDD"/>
+        <Setter Property="FontFamily" Value="Times New Roman"/>
+        <Style.Triggers>
+            <EventTrigger RoutedEvent="Click">
+                <EventTrigger.Actions>
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetProperty="Width"   To="87" AutoReverse="True" />
+                            <DoubleAnimation Storyboard.TargetProperty="Height"  To="45" AutoReverse="True" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger.Actions>
+            </EventTrigger>
+        </Style.Triggers>
+    </Style>
+
+    <Style x:Key="datatriggerstyle" TargetType="Button">
+        <Setter Property="Background" Value="#FFDDDDDD"/>
+        <Setter Property="FontFamily" Value="Times New Roman"/>
+        <Style.Triggers>
+            <DataTrigger Binding="{Binding ElementName=radioButton1, Path=IsChecked}" Value="True">
+                <Setter Property="FontSize" Value="15" />
+                <Setter Property="FontWeight" Value="SemiBold" />
+                <Setter Property="Foreground" Value="Red" />
+            </DataTrigger>
+            <DataTrigger Binding="{Binding ElementName=radioButton2, Path=IsChecked}" Value="True">
+                <Setter Property="FontSize" Value="15" />
+                <Setter Property="FontWeight" Value="SemiBold" />
+                <Setter Property="Foreground" Value="Red" />
+            </DataTrigger>
+        </Style.Triggers>
+    </Style>
+    
+    
+    
+    
+    <!--template-->
+    <ControlTemplate TargetType="Button" x:Key="btTemplate">
+        <Border Name="Border" CornerRadius="25" Padding="0" BorderBrush="White" BorderThickness="2"   
+                     Background="#FFDDDDDD"   >
+            <ContentControl  FontFamily="Times New Roman"   HorizontalAlignment="Center" Content="{DynamicResource m_sohranit}" />
+        </Border>
+        <ControlTemplate.Triggers>
+            <Trigger Property="IsMouseOver" Value="True">
+                <Setter TargetName="Border" Property="BorderThickness" Value="4"></Setter>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    
+    <ControlTemplate x:Key="tbxtemplate" TargetType="{x:Type TextBox}">
+        <Border  CornerRadius="20" Padding="0" BorderThickness="2" Background="#FFDDDDDD"  BorderBrush="White">
+            <ScrollViewer Margin="0, 0, 0, 0" x:Name="PART_ContentHost" /> 
+        </Border> 
+    </ControlTemplate>
+
+</ResourceDictionary>
+  

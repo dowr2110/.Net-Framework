@@ -1,0 +1,52 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib"
+                    xmlns:local="clr-namespace:lab_7_8_new.Resources">
+
+    <v:String x:Key="m_Title">Notes_Dowr</v:String>
+    <v:String x:Key="m_menu_Language">Language</v:String>
+
+    <v:String x:Key="m_obnovit">Refresh</v:String>
+    <v:String x:Key="m_domoy">Home</v:String>
+    <v:String x:Key="m_izmenit">Edit</v:String>
+    <v:String x:Key="m_poslobnovl">last refresh</v:String>
+    <v:String x:Key="m_sortpo">Sort of:</v:String>
+    <v:String x:Key="m_poisk">Search</v:String>
+    <v:String x:Key="m_vyvod">OUTPUT of all tasks</v:String>
+    <v:String x:Key="m_krat_nazv">Short title</v:String>
+    <v:String x:Key="m_poln_obyas">Full descriction</v:String>
+    <v:String x:Key="m_katigoria">Category</v:String>
+    <v:String x:Key="m_preiritet">Priority</v:String>
+    <v:String x:Key="m_vremya_sozd">Time of creation</v:String>
+    <v:String x:Key="m_status">Status</v:String>
+    <v:String x:Key="m_sozdat_zadacu">Create task</v:String>
+    <v:String x:Key="m_po_kratk">by short name</v:String>
+    <v:String x:Key="m_po_polnoy">by full descriction</v:String>
+    <v:String x:Key="m_po_katigori">by category</v:String>
+    <v:String x:Key="m_po_preoritetu">by priority</v:String>
+    <v:String x:Key="m_po_vremeni">by time</v:String>
+    <v:String x:Key="m_po_statusu">by status</v:String>
+    <v:String x:Key="m_sohranit">Save</v:String>
+    <v:String x:Key="m_izmeneniyezadac">EDIT tasks</v:String>
+  
+    <v:String x:Key="p_ocistit">Clear</v:String>
+    <v:String x:Key="p_pervyy">First</v:String>
+    <v:String x:Key="p_vtoroy">Second</v:String>
+    <v:String x:Key="p_tretiy">Third</v:String>
+    <v:String x:Key="p_preoritet">Priority:</v:String>
+    <v:String x:Key="p_kaatigory">Category:</v:String>
+    <v:String x:Key="p_kratkoe_nazv">Short title:</v:String>
+    <v:String x:Key="p_dataiwremyasohr">Date and time of save:</v:String>
+    <v:String x:Key="p_polnopis">Full title:</v:String>
+    <v:String x:Key="p_sozdanzadac">CREATE tasks</v:String>
+
+    <v:String x:Key="r_poisk_zadac">SEARCH tasks</v:String>
+    <v:String x:Key="r_po_kratk">By short name</v:String>
+    <v:String x:Key="r_po_polnoy">By full descriction</v:String>
+    <v:String x:Key="r_po_katigori">By category</v:String>
+    <v:String x:Key="r_po_preoritetu">By priority</v:String>
+    <v:String x:Key="r_po_vremeni">By time</v:String>
+    <v:String x:Key="r_po_statusu">By status</v:String>
+    <v:String x:Key="r_result">Result</v:String>
+
+</ResourceDictionary>

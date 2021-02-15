@@ -1,0 +1,50 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                     xmlns:v="clr-namespace:System;assembly=mscorlib"
+                    xmlns:local="clr-namespace:lab_7_8_new.Resources">
+
+
+    <v:String x:Key="m_Title">Заметки_Довр</v:String>
+    <v:String x:Key="m_obnovit">Обновить</v:String>
+    <v:String x:Key="m_domoy">Домой</v:String>
+    <v:String x:Key="m_izmenit">Изменить</v:String>
+    <v:String x:Key="m_poslobnovl">Последнее обновление</v:String>
+    <v:String x:Key="m_sortpo">Сортировка по:</v:String>
+    <v:String x:Key="m_poisk">Поиск</v:String>
+    <v:String x:Key="m_vyvod">ВЫВОД всех задачь</v:String>
+    <v:String x:Key="m_krat_nazv">Краткое название</v:String>
+    <v:String x:Key="m_poln_obyas">Полное описание</v:String>
+    <v:String x:Key="m_katigoria">Катигория</v:String>
+    <v:String x:Key="m_preiritet">Преоритет</v:String>
+    <v:String x:Key="m_vremya_sozd">Время создания</v:String>
+    <v:String x:Key="m_status">Статус</v:String>
+    <v:String x:Key="m_sozdat_zadacu">Создать задачу</v:String>
+    <v:String x:Key="m_po_kratk">по краткой названии</v:String>
+    <v:String x:Key="m_po_polnoy">по полной описании</v:String>
+    <v:String x:Key="m_po_katigori">по катигории</v:String>
+    <v:String x:Key="m_po_preoritetu">по преоритету</v:String>
+    <v:String x:Key="m_po_vremeni">по времении создания</v:String>
+    <v:String x:Key="m_po_statusu">по статусу</v:String>
+    <v:String x:Key="m_menu_Language">Язык</v:String>
+    <v:String x:Key="m_sohranit">Сохранить</v:String>
+    <v:String x:Key="m_izmeneniyezadac">ИЗМИНЕНИЕ задачь</v:String>
+    <v:String x:Key="p_ocistit">Очистить</v:String>
+    <v:String x:Key="p_pervyy">Первый</v:String>
+    <v:String x:Key="p_vtoroy">Второй</v:String>
+    <v:String x:Key="p_tretiy">Третий</v:String>
+    <v:String x:Key="p_preoritet">Преоритет:</v:String>
+    <v:String x:Key="p_kaatigory">Катигория:</v:String>
+    <v:String x:Key="p_kratkoe_nazv">Краткое названия:</v:String>
+    <v:String x:Key="p_dataiwremyasohr">Дата и Время сохранение:</v:String>
+    <v:String x:Key="p_polnopis">Полное описание:</v:String>
+    <v:String x:Key="p_sozdanzadac">СОЗДАНИЕ задачь</v:String>
+
+    <v:String x:Key="r_poisk_zadac">ПОИСК задачь</v:String>
+    <v:String x:Key="r_po_kratk">По краткой названии</v:String>
+    <v:String x:Key="r_po_polnoy">По полной описании</v:String>
+    <v:String x:Key="r_po_katigori">По катигории</v:String>
+    <v:String x:Key="r_po_preoritetu">По преоритету</v:String>
+    <v:String x:Key="r_po_vremeni">По времении создания</v:String>
+    <v:String x:Key="r_po_statusu">По статусу</v:String>
+    <v:String x:Key="r_result">Результат</v:String>
+</ResourceDictionary>

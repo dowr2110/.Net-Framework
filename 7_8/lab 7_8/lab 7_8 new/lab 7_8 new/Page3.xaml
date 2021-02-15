@@ -1,0 +1,49 @@
+﻿<Page x:Class="lab_7_8_new.Page3"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:lab_7_8_new"
+      mc:Ignorable="d" 
+      d:DesignHeight="405" d:DesignWidth="615"
+      Title="Page3">
+
+    <Grid Background="#FF38372E">
+        <GroupBox Header="{DynamicResource r_result}" HorizontalAlignment="Left" Width="602" FontFamily="Times New Roman" BorderBrush="#FFECF5F5" FontSize="20" Height="230" VerticalAlignment="Top" Margin="4,150,0,0" Foreground="#FFF7F1F1"/>
+        <DataGrid x:Name="phonesGrid" CanUserAddRows="False"   AutoGenerateColumns="False"  Margin="15,175,20,31" FontFamily="Times New Roman" Background="#FFDCD8A7" >
+
+            <DataGrid.Columns >
+                <DataGridTextColumn  Header="{DynamicResource m_krat_nazv}"  FontWeight="Bold" Binding="{Binding Kratkoe_nazvaniye}" Width="100" FontFamily="Times New Roman"  />
+                <DataGridTextColumn Header="{DynamicResource m_poln_obyas}" Binding="{Binding Polnoe_opisanie}" Width="100" />
+                <DataGridTextColumn Header="{DynamicResource m_katigoria}"  Binding="{Binding Katigoria}" Width="70" />
+                <DataGridTextColumn Header="{DynamicResource m_preiritet}" Binding="{Binding Preoritet}" Width="70" />
+                <DataGridTextColumn Header="{DynamicResource m_vremya_sozd}" Binding="{Binding Datetime}" FontStyle="Italic" Width="115" />
+                <DataGridTextColumn Header="{DynamicResource m_status}"  Width="120" />
+            </DataGrid.Columns>
+
+
+            <DataGrid.RowDetailsTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Polnoe_opisanie}" Height="50" FontSize="16"/>
+                    </StackPanel>
+                </DataTemplate>
+            </DataGrid.RowDetailsTemplate>
+
+
+        </DataGrid>
+        <GroupBox Header="{DynamicResource r_poisk_zadac}" Foreground="#FFF7F1F1" FontFamily="Times New Roman" BorderBrush="#FFECF5F5" FontSize="20" HorizontalAlignment="Left" Height="135" Margin="4,10,0,0" VerticalAlignment="Top" Width="601"/>
+        <Button Content="{DynamicResource m_poisk}" HorizontalAlignment="Left" Margin="305,45,0,0" VerticalAlignment="Top" Width="290" Height="23" FontFamily="Times New Roman" FontSize="14" Click="Button_Click"/>
+
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="23" Margin="15,45,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="285" FontFamily="Times New Roman"/>
+        <RadioButton x:Name="radioButton1" Foreground="#FFF7F1F1" Content="{DynamicResource r_po_kratk}" HorizontalAlignment="Left" Margin="15,89,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="14"/>
+        <RadioButton x:Name="radioButton2" Foreground="#FFF7F1F1" Content="{DynamicResource r_po_polnoy}" HorizontalAlignment="Left" Margin="15,116,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="14"/>
+        <RadioButton x:Name="radioButton3" Foreground="#FFF7F1F1" Content="{DynamicResource r_po_katigori}" HorizontalAlignment="Left" Margin="234,89,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="14"/>
+        <RadioButton x:Name="radioButton4" Foreground="#FFF7F1F1" Content="{DynamicResource r_po_preoritetu}" HorizontalAlignment="Left" Margin="234,116,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="14"/>
+        <RadioButton x:Name="radioButton5" Foreground="#FFF7F1F1" Content="{DynamicResource r_po_vremeni}" HorizontalAlignment="Left" Margin="430,89,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="14"/>
+        <RadioButton x:Name="radioButton6" Foreground="#FFF7F1F1" Content="{DynamicResource r_po_statusu}" HorizontalAlignment="Left" Margin="430,116,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="14"/>
+
+
+
+    </Grid>
+</Page>

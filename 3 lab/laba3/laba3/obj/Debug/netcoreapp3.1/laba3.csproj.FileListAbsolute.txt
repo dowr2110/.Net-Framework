@@ -1,0 +1,11 @@
+D:\универ\4 сем\ООП\laba3\laba3\bin\Debug\netcoreapp3.1\laba3.exe
+D:\универ\4 сем\ООП\laba3\laba3\bin\Debug\netcoreapp3.1\laba3.deps.json
+D:\универ\4 сем\ООП\laba3\laba3\bin\Debug\netcoreapp3.1\laba3.runtimeconfig.json
+D:\универ\4 сем\ООП\laba3\laba3\bin\Debug\netcoreapp3.1\laba3.runtimeconfig.dev.json
+D:\универ\4 сем\ООП\laba3\laba3\bin\Debug\netcoreapp3.1\laba3.dll
+D:\универ\4 сем\ООП\laba3\laba3\bin\Debug\netcoreapp3.1\laba3.pdb
+D:\универ\4 сем\ООП\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.csprojAssemblyReference.cache
+D:\универ\4 сем\ООП\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.AssemblyInfoInputs.cache
+D:\универ\4 сем\ООП\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.AssemblyInfo.cs
+D:\универ\4 сем\ООП\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.dll
+D:\универ\4 сем\ООП\laba3\laba3\obj\Debug\netcoreapp3.1\laba3.pdb

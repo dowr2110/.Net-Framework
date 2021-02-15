@@ -1,0 +1,199 @@
+D:\фит\ООП\2 семестр лабы\5 lab\лаб 5\лаб 5\bin\Debug\лаб 5.exe.config
+D:\фит\ООП\2 семестр лабы\5 lab\лаб 5\лаб 5\bin\Debug\лаб 5.exe
+D:\фит\ООП\2 семестр лабы\5 lab\лаб 5\лаб 5\bin\Debug\лаб 5.pdb
+D:\фит\ООП\2 семестр лабы\5 lab\лаб 5\лаб 5\obj\Debug\лаб 5.csprojAssemblyReference.cache
+D:\фит\ООП\2 семестр лабы\5 lab\лаб 5\лаб 5\obj\Debug\лаб_5.Form1.resources
+D:\фит\ООП\2 семестр лабы\5 lab\лаб 5\лаб 5\obj\Debug\лаб_5.Properties.Resources.resources
+D:\фит\ООП\2 семестр лабы\5 lab\лаб 5\лаб 5\obj\Debug\лаб 5.csproj.GenerateResource.cache
+D:\фит\ООП\2 семестр лабы\5 lab\лаб 5\лаб 5\obj\Debug\лаб 5.csproj.CoreCompileInputs.cache
+D:\фит\ООП\2 семестр лабы\5 lab\лаб 5\лаб 5\obj\Debug\лаб 5.exe
+D:\фит\ООП\2 семестр лабы\5 lab\лаб 5\лаб 5\obj\Debug\лаб 5.pdb
+D:\фит\ООП\2 семестр лабы\5 lab\лаб 5\лаб 5\bin\Debug\Newtonsoft.Json.dll
+D:\фит\ООП\2 семестр лабы\5 lab\лаб 5\лаб 5\bin\Debug\Newtonsoft.Json.xml
+D:\фит\ООП\2 семестр лабы\5 lab\лаб 5\лаб 5\obj\Debug\лаб 5.csproj.CopyComplete
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Newtonsoft.Json.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Newtonsoft.Json.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\obj\Debug\лаб 5.csprojAssemblyReference.cache
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\obj\Debug\лаб_5.Form1.resources
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\obj\Debug\лаб_5.Properties.Resources.resources
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\obj\Debug\лаб 5.csproj.GenerateResource.cache
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\obj\Debug\лаб 5.csproj.CoreCompileInputs.cache
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\obj\Debug\лаб 5.csproj.CopyComplete
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\obj\Debug\лаб_5.Form2.resources
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\netstandard.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.AppContext.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Collections.Concurrent.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Collections.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Collections.NonGeneric.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Collections.Specialized.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.ComponentModel.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.ComponentModel.Primitives.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Console.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Data.Common.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Diagnostics.Contracts.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Diagnostics.Debug.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Diagnostics.Process.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Diagnostics.Tools.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Diagnostics.Tracing.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Drawing.Primitives.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Dynamic.Runtime.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Globalization.Calendars.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Globalization.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Globalization.Extensions.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.IO.Compression.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.IO.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.IO.FileSystem.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.IO.IsolatedStorage.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.IO.Pipes.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Linq.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Linq.Expressions.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Linq.Parallel.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Linq.Queryable.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Net.Http.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Net.NameResolution.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Net.NetworkInformation.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Net.Ping.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Net.Primitives.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Net.Requests.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Net.Security.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Net.Sockets.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Net.WebSockets.Client.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Net.WebSockets.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.ObjectModel.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Reflection.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Reflection.Extensions.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Reflection.Primitives.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Resources.Reader.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Resources.ResourceManager.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Resources.Writer.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Runtime.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Runtime.Extensions.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Runtime.Handles.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Runtime.InteropServices.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Runtime.Numerics.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Security.Claims.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Security.Principal.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Security.SecureString.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Text.Encoding.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Text.RegularExpressions.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Threading.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Threading.Overlapped.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Threading.Tasks.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Threading.Thread.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Threading.ThreadPool.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Threading.Timer.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.ValueTuple.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Xml.ReaderWriter.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Xml.XDocument.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Xml.XmlDocument.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Xml.XmlSerializer.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Xml.XPath.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Routing.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.Extensions.Localization.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.Extensions.Options.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Buffers.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.ComponentModel.Annotations.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Memory.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Numerics.Vectors.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Text.Encodings.Web.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Routing.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.Extensions.Localization.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.Extensions.Options.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Buffers.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Memory.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Numerics.Vectors.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Text.Encodings.Web.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\лаб 5 do.exe.config
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\лаб 5 do.exe
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\bin\Debug\лаб 5 do.pdb
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\obj\Debug\лаб 5 do.exe.config
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\obj\Debug\лаб 5 do.exe
+D:\фит\ООП\2 семестр лабы\6 lab\лаб 5\лаб 5\obj\Debug\лаб 5 do.pdb

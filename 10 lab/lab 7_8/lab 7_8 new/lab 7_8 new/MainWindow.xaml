@@ -1,0 +1,115 @@
+﻿<Window x:Class="lab_7_8_new.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+       
+        xmlns:local="clr-namespace:lab_7_8_new"
+        xmlns:v="clr-namespace:System;assembly=mscorlib"
+        xmlns:col="clr-namespace:System.Collections;assembly=mscorlib"
+        mc:Ignorable="d"
+     
+    Title="{DynamicResource m_Title}"   Height="457" Width="854" Cursor="Hand" Icon="D:\фит\ООП\2 семестр лабы\7_8\lab 7_8\lab 7_8 new\f2.ico">
+    <!--<Window.Resources>
+
+        <Style x:Name="Button" TargetType="Button">
+            <Setter Property="Background" Value="#FFDDDDDD"/>
+            <Setter Property="FontFamily" Value="Times New Roman"/>
+        </Style>
+
+    </Window.Resources>-->
+    <!--<Window.Resources>
+        <ControlTemplate TargetType="Button" x:Key="btTemplate">
+            <Border CornerRadius="25" BorderBrush="CadetBlue" BorderThickness="2"   
+                     Background="#FFDDDDDD"   >
+                <ContentControl   HorizontalAlignment="Center" Content="Hello" />
+            </Border>
+        </ControlTemplate>
+    </Window.Resources>-->
+
+
+
+    <!--<Window.CommandBindings>
+        <CommandBinding Command="local:WindowCommands.Exit" Executed="Exit_Executed"/>
+    </Window.CommandBindings>-->
+
+    <Window.CommandBindings>
+        <CommandBinding Command ="local:NewCustomCommand.PnvCommand" Executed="CommandBinding_Executed"> 
+        </CommandBinding>
+    </Window.CommandBindings>
+    <Grid x:Name="grid1"  Style="{DynamicResource backgroundcolor}" Margin="0,0,-1,0">
+
+        <DataGrid  Height="314" Width="579" CanUserAddRows="False" IsReadOnly="True" CanUserDeleteRows="False"  CanUserSortColumns="False" CanUserReorderColumns="False" CanUserResizeColumns="False" CanUserResizeRows="False" x:Name="phonesGrid" AutoGenerateColumns="False"  Margin="224,56,24,31" FontFamily="Times New Roman" Style="{DynamicResource datagridstyle}">
+
+            <DataGrid.Columns >
+                <DataGridTextColumn x:Name="colum1" Header="{DynamicResource m_krat_nazv}"  FontWeight="Bold" Binding="{Binding Kratkoe_nazvaniye}" Width="100" FontFamily="Times New Roman"  />
+                <DataGridTextColumn Header="{DynamicResource m_poln_obyas}" Binding="{Binding Polnoe_opisanie}" Width="100" />
+                <DataGridTextColumn Header="{DynamicResource m_katigoria}" Binding="{Binding Katigoria}" Width="65" />
+                <DataGridTextColumn Header="{DynamicResource m_preiritet}" Binding="{Binding Preoritet}" Width="65" />
+                <DataGridTextColumn Header="{DynamicResource m_vremya_sozd}" Binding="{Binding Datetime}" FontStyle="Italic" Width="115"  />
+                <DataGridTextColumn x:Name="colum6" Header="{DynamicResource m_status}"  Binding="{Binding Status2}"  Width="80"  />
+                <DataGridCheckBoxColumn x:Name="checkBox1"  Header="" Binding="{Binding Status}"  Width="50" />
+
+            </DataGrid.Columns>
+
+            <DataGrid.RowDetailsTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Polnoe_opisanie}" Height="50" FontSize="16"/>
+                </DataTemplate>
+            </DataGrid.RowDetailsTemplate>
+
+        </DataGrid>
+
+        <GroupBox Header="{DynamicResource m_vyvod}" Width="602" FontFamily="Times New Roman" BorderBrush="#FFECF5F5" FontSize="20" Height="350" Margin="215,30,10,21" Foreground="#FFF7F1F1">
+            <Frame  x:Name="fraam" NavigationUIVisibility="Hidden" Margin="-7,-55,-12,-20" />
+        </GroupBox>
+        <Button Content="{DynamicResource m_sozdat_zadacu}"  Style="{DynamicResource ButtonStyle}" Margin="10,69,642,314" Width="175" FontFamily="Times New Roman" Height="18" Click="Button_Click"/>
+        <Button Content="{DynamicResource m_izmenit}" Style="{DynamicResource ButtonStyle}" Margin="10,92,642,291" Width="175" FontFamily="Times New Roman" Height="18" Click="Button_Click_5"/>
+        <ComboBox x:Name="Combo" FontFamily="Times New Roman"  Margin="9,135,643,244" Width="175" Height="22" SelectionChanged="Sort_SelectionChanged">
+            <TextBlock Text="{DynamicResource m_po_kratk}"/>
+            <TextBlock Text="{DynamicResource m_po_polnoy}" />
+            <TextBlock Text="{DynamicResource m_po_katigori }" />
+            <TextBlock Text="{DynamicResource m_po_preoritetu}" />
+            <TextBlock Text="{DynamicResource m_po_vremeni}" />
+            <TextBlock Text="{DynamicResource m_po_statusu}" />
+        </ComboBox>
+
+        <Label Content="{DynamicResource m_sortpo}" Margin="9,112,643,263" Width="175" FontFamily="Times New Roman" Height="26" Background="{x:Null}" Foreground="#FFF7F1F1"/>
+        <Button Content="{DynamicResource m_poisk}" Style="{DynamicResource ButtonStyle}"  Margin="9,163,643,220" Width="175" FontFamily="Times New Roman" Height="18" Click="Button_Click_6"/>
+        <Calendar x:Name="calendar1" SelectionMode="MultipleRange"
+        xmlns:sys="clr-namespace:lab_7_8_new;assembly=mscorlib" SelectedDatesChanged="calendar_SelectedDatesChanged" Margin="19,240,653,34" Width="175" Height="153"/>
+
+        <GridSplitter HorizontalAlignment="Stretch" Height="401" Width="8" Background="#FFF9F9F9" Margin="195,5,624,-5" RenderTransformOrigin="0.5,0.5">
+            <GridSplitter.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </GridSplitter.RenderTransform>
+        </GridSplitter>
+
+        <Button Content="{DynamicResource m_obnovit}"  Style="{DynamicResource eventtriggerstyle}" Margin="10,20,730,363" Width="87" Height="18"  FontFamily="Times New Roman" Click="Button_Click_2"/>
+        <TextBox x:Name="Textbox" IsReadOnly="True" TextAlignment="Center" Margin="97,20,642,363" TextWrapping="Wrap" Text="------------" Height="18"  FontFamily="Times New Roman" Width="88" TextChanged="Textbox_TextChanged" BorderBrush="#FF707070"/>
+        <Label Content="{DynamicResource m_poslobnovl }" Margin="96,33,643,349" FontSize="8" Foreground="#FFF7F1F1" FontFamily="Times New Roman" Height="19" Width="88"/>
+        <Button x:Name="vyvod" Content="{DynamicResource m_domoy}"  Style="{DynamicResource multitriggerstyle}" Command="Open" Margin="10,48,642,335" Width="175"  FontFamily="Times New Roman" Height="18" />
+
+        <ComboBox x:Name="styleBox" Margin="106,201,653,199" Width="88" Height="26" FontFamily="Times New Roman" BorderBrush="#00000000" Foreground="Black" FontSize="11" />
+        <Label Content="{DynamicResource tema }" Margin="19,201,772,199" FontFamily="Times New Roman" Height="26" Width="56" Background="{x:Null}" Foreground="#FFF7F1F1"/>
+
+        <DockPanel Margin="0,0,0,398">
+            <Menu Width="847"  Style="{DynamicResource menustyle}" FontSize="10" VerticalAlignment="Top" >
+                <MenuItem Header="{DynamicResource undoredo}"  Style="{DynamicResource menuitemstyle}" Height="18" Width="65" FontSize="12">
+                    <MenuItem Header="{DynamicResource undo}"  Command="Undo"/>
+                    <MenuItem Header="{DynamicResource redo}"  Command="Redo"/>
+
+                </MenuItem>
+                <MenuItem x:Name="menuLanguage" Header="{DynamicResource m_menu_Language}"  Style="{DynamicResource menuitemstyle}" Width="67"  Height="18" FontSize="12" />
+                <!--<MenuItem Header="Выход"  Style="{DynamicResource menuitemstyle}" Command="local:WindowCommands.Exit" Width="43"  />-->
+            </Menu>
+        </DockPanel>
+        <Button Content="Usercontrols"  Style="{DynamicResource ButtonStyle}"  FontFamily="Times NEw Roman" HorizontalAlignment="Left" Margin="20,398,0,0" VerticalAlignment="Top" Width="65" Click="Button_Click_8"/>
+        <Button Command ="local:NewCustomCommand.PnvCommand"  Style="{DynamicResource ButtonStyle}"  FontFamily="Times NEw Roman" Margin="85,398,652,0" Click="Button_Click_10">RoutedUICommand</Button>
+    </Grid>
+</Window>

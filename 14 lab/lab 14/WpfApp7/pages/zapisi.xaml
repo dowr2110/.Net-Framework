@@ -1,0 +1,33 @@
+﻿<Page x:Class="WpfApp7.pages.zapisi"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp7.pages"
+       xmlns:vm="clr-namespace:WpfApp7.ViewModels"
+      mc:Ignorable="d" 
+      d:DesignHeight="319" d:DesignWidth="534"
+      Title="zapisi">
+    <Page.DataContext>
+        <vm:zapisiViewModel />
+    </Page.DataContext>
+    <Grid Margin="1,0,-1,0" MinWidth="534" MinHeight="319">
+        <DataGrid ItemsSource="{Binding Orders}" Width="514" Height="auto" CanUserAddRows="False" Background="#FFBFAAAA" FontFamily="Times New Roman" AutoGenerateColumns="False" Name="Data" Margin="10,122,10,10" HorizontalAlignment="Center" VerticalAlignment="Top" >
+            <DataGrid.Columns>
+                <DataGridTextColumn IsReadOnly="True" Binding="{Binding OrderId}" Header="OrderId" Width="50"/>
+                <DataGridTextColumn IsReadOnly="False" Binding="{Binding StdudentName}" Header="StdudentName" Width="85"/>
+                <DataGridTextColumn IsReadOnly="False" Binding="{Binding StdudentFamilyName}" Header="StdudentFamilyName" Width="115"/>
+                <DataGridTextColumn IsReadOnly="False" Binding="{Binding Email}" Header="Email" Width="50"/>
+                <DataGridTextColumn IsReadOnly="True" Binding="{Binding When}" Header="When" Width="80"/>
+                <DataGridTextColumn IsReadOnly="True" Binding="{Binding DistiplinaId}" Header="DistiplinaId" Width="80"/>
+                <DataGridTextColumn IsReadOnly="True" Binding="{Binding Distiplina.Name}" Header="Distiplina.Name" Width="80"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Обновить" Command="{Binding RefreshCommand}" Height="20" Margin="420,38,13,0" Width="101" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <StackPanel  Orientation="Vertical" VerticalAlignment="Top">
+            <Button  Content="Записи" Command="{Binding ToOrdersCommand}"  /> 
+        </StackPanel>
+        <Button Content="Сохранить" Command="{Binding Updatecommand}" Height="20" Margin="420,63,13,0" Width="101" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+
+    </Grid>
+</Page>

@@ -1,0 +1,13 @@
+D:\фит\ООП\2 семестр лабы\5 lab\лаб 5\лаб 5\bin\Debug\лаб 5.exe.config
+D:\фит\ООП\2 семестр лабы\5 lab\лаб 5\лаб 5\bin\Debug\лаб 5.exe
+D:\фит\ООП\2 семестр лабы\5 lab\лаб 5\лаб 5\bin\Debug\лаб 5.pdb
+D:\фит\ООП\2 семестр лабы\5 lab\лаб 5\лаб 5\obj\Debug\лаб 5.csprojAssemblyReference.cache
+D:\фит\ООП\2 семестр лабы\5 lab\лаб 5\лаб 5\obj\Debug\лаб_5.Form1.resources
+D:\фит\ООП\2 семестр лабы\5 lab\лаб 5\лаб 5\obj\Debug\лаб_5.Properties.Resources.resources
+D:\фит\ООП\2 семестр лабы\5 lab\лаб 5\лаб 5\obj\Debug\лаб 5.csproj.GenerateResource.cache
+D:\фит\ООП\2 семестр лабы\5 lab\лаб 5\лаб 5\obj\Debug\лаб 5.csproj.CoreCompileInputs.cache
+D:\фит\ООП\2 семестр лабы\5 lab\лаб 5\лаб 5\obj\Debug\лаб 5.exe
+D:\фит\ООП\2 семестр лабы\5 lab\лаб 5\лаб 5\obj\Debug\лаб 5.pdb
+D:\фит\ООП\2 семестр лабы\5 lab\лаб 5\лаб 5\bin\Debug\Newtonsoft.Json.dll
+D:\фит\ООП\2 семестр лабы\5 lab\лаб 5\лаб 5\bin\Debug\Newtonsoft.Json.xml
+D:\фит\ООП\2 семестр лабы\5 lab\лаб 5\лаб 5\obj\Debug\лаб 5.csproj.CopyComplete

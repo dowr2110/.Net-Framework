@@ -1,0 +1,1 @@
+nado dobavit validaciyu i posl vypolnennye destviya i regex vvod dannyh povtori
